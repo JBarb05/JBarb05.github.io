@@ -1,65 +1,64 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Julien Barbier",
+    "label": "Etudiant",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "email": "jubarbier@pm.me",
+    "phone": "+33 7 86 76 68 91",
+    "website": "https://jbarb05.github.io/",
+    "summary": "Je suis actuellement un étudiant en réseaux & télécom spécialité ROM à l'IUT de Roanne. Je suis impatient de commencer ma carrière avec une alternance pour pouvoir me professionaliser et spécialiser rapidement.",
+    "Je suis conscient que le monde de l'administration réseau est en constante évolution. C'est pourquoi je chercher toujours à me former et à me perfectionner pour être à jour sur les dernières technologies. J'adopte une approche innovante pour résoudre les défis se présentant à moi et répondre aux besoins. Je cherche a me spécialiser dans virtualisation et le cloud.",
+    "location": { "address": "", "postalCode": "42300", "city": "Roanne", "countryCode": "FR", "region": "Loire" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "JBarb05", "url": "https://github.com/JBarb05/" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ju-barbier/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "VTT enduro" },
+    { "name": "Virtualisation" },
+    { "name": "Trekking" },
+    { "name": "Montagne" },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Administration Réseau",
+      "keywords": [ "DHCP", "DNS", "NAT", "Supernetting", "OSPF", "Cisco" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Outils/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "bash", "python", "C", "C++" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "IUT de Roanne",
+      "area": "Réseau et télécoms spécialité Réseau Opéateur et Multimédias - 2027",
+      "studyType": "R&T",
+      "startDate": "01/09/2023",
+      "endDate": "A venir",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Tuteur numérique Etudiant",
+      "position": "Technicien Helpdesk",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "01/09/2024",
+      "endDate": "Actuellement",
+      "summary": "Aide a distance etudiante et tenue helpdesk =",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Ticketing, Softphone, Helpdesk, Ecoute"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Employé Libre Service ",
+      "position": "Ouvrier",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
@@ -71,7 +70,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "CorbasVTT",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
