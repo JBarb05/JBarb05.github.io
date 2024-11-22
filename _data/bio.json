@@ -2,25 +2,22 @@
   "basics": {
     "name": "Julien Barbier",
     "label": "Etudiant",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/JBarb05/JBarb05.github.io/blob/main/img/Julien.jpg?raw=true",
     "email": "jubarbier@pm.me",
     "phone": "+33 7 86 76 68 91",
     "website": "https://jbarb05.github.io/",
-    "summary": "Je suis actuellement un étudiant en réseaux & télécom spécialité ROM à l'IUT de Roanne. Je suis impatient de commencer ma carrière avec une alternance pour pouvoir me professionaliser et spécialiser rapidement.",
-    "Je suis conscient que le monde de l'administration réseau est en constante évolution. C'est pourquoi je chercher toujours à me former et à me perfectionner pour être à jour sur les dernières technologies. J'adopte une approche innovante pour résoudre les défis se présentant à moi et répondre aux besoins. Je cherche a me spécialiser dans virtualisation et le cloud.",
+    "summary": "Je suis actuellement un étudiant en réseaux & télécom spécialité ROM à l'IUT de Roanne. Je suis impatient de commencer ma carrière avec une alternance pour pouvoir me professionaliser et spécialiser rapidement. Je suis conscient que le monde de l'administration réseau est en constante évolution. C'est pourquoi je chercher toujours à me former et à me perfectionner pour être à jour sur les dernières technologies. J'adopte une approche innovante pour résoudre les défis se présentant à moi et répondre aux besoins. Je cherche a me spécialiser dans virtualisation et le cloud.",
     "location": { "address": "", "postalCode": "42300", "city": "Roanne", "countryCode": "FR", "region": "Loire" },
     "profiles": [
       { "network": "github", "username": "JBarb05", "url": "https://github.com/JBarb05/" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/ju-barbier/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Ju-Barbier", "url": "https://www.linkedin.com/in/ju-barbier/" }
     ]
   },
   "interests": [
     { "name": "VTT enduro" },
     { "name": "Virtualisation" },
     { "name": "Trekking" },
-    { "name": "Montagne" },
+    { "name": "Montagne" }
   ],
   "skills": [
     {
