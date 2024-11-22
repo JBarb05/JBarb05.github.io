@@ -3,23 +3,23 @@
     "name": "Julien Barbier",
     "label": "Etudiant",
     "picture": "https://github.com/JBarb05/JBarb05.github.io/blob/main/img/Julien.jpg?raw=true",
-    "email": "jubarbier@pm.me",
+    "email": "ju.barbier@pm.me",
     "phone": "+33 7 86 76 68 91",
     "website": "https://jbarb05.github.io/",
-    "summary": "Je suis actuellement un étudiant en réseaux & télécom spécialité ROM à l'IUT de Roanne. Je suis impatient de commencer ma carrière avec une alternance pour pouvoir me professionaliser et spécialiser rapidement. Je suis conscient que le monde de l'administration réseau est en constante évolution. C'est pourquoi je chercher toujours à me former et à me perfectionner pour être à jour sur les dernières technologies. J'adopte une approche innovante pour résoudre les défis se présentant à moi et répondre aux besoins. Je cherche a me spécialiser dans virtualisation et le cloud.",
+    "summary": "Je suis actuellement un étudiant en réseaux & télécom spécialité ROM à l'IUT de Roanne. Je suis en deuxieme année et commencé mon alternance pour pouvoir me professionaliser et spécialiser rapidement. Je suis conscient que le monde de l'administration réseau est en constante évolution. C'est pourquoi je chercher toujours à me former et à me perfectionner pour être à jour sur les dernières technologies. J'adopte une approche innovante pour résoudre les défis se présentant à moi et répondre aux besoins. Je cherche a me spécialiser dans virtualisation et le cloud.",
     "location": { "address": "", "postalCode": "42300", "city": "Roanne", "countryCode": "FR", "region": "Loire" },
     "profiles": [
       { "network": "github", "username": "JBarb05", "url": "https://github.com/JBarb05/" },
       { "network": "linkedin", "username": "Ju-Barbier", "url": "https://www.linkedin.com/in/ju-barbier/" }
     ]
   },
-  "interests": [
+  "Centre d'Interets": [
     { "name": "VTT enduro" },
     { "name": "Virtualisation" },
     { "name": "Trekking" },
     { "name": "Montagne" }
   ],
-  "skills": [
+  "Compétences": [
     {
       "name": "Administration Réseau",
       "keywords": [ "DHCP", "DNS", "NAT", "Supernetting", "OSPF", "Cisco" ]
@@ -29,7 +29,7 @@
       "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "bash", "python", "C", "C++" ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "IUT de Roanne",
       "area": "Réseau et télécoms spécialité Réseau Opéateur et Multimédias - 2027",
@@ -40,7 +40,7 @@
       ]
     }
   ],
-  "work": [
+  "Experience": [
     {
       "company": "Tuteur numérique Etudiant",
       "position": "Technicien Helpdesk",
@@ -65,7 +65,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Volontaria": [
     {
       "organization": "CorbasVTT",
       "website": "http://manoa.hawaii.edu/reis",
@@ -92,21 +92,15 @@
       ]
     }
   ],
-  "awards": [
+  "Certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Certification 3CX Basic",
+      "date": "2024",
+      "awarder": "3CX systems",
+      "summary": "Certification basique pour la configuration et la gestion d'un IPBX 3CX"
     }
   ],
-  "references": [
+  "références": [
     {
       "name": "Available upon request"
     }
