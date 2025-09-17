@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Julien Barbier
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Technicien UC & Réseaux en Alternance'
 
 # Status emoji
 status:

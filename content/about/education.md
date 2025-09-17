@@ -22,26 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: Technicien UC & réseaux en alternance
+    company: Tims Systèmes
+    company_url: 'https://tims.fr/'
     company_logo: org-x
     location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    date_start: '2025-02-10'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Support Client N1
+        * Déploiement de téléphonie
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
+  - title: Tuteur numérique étudiant
+    company: IUT de Roanne
+    company_url: 'https://iut-roanne.univ-st-etienne.fr/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    location: Roanne
+    date_start: '2024-09-01'
+    date_end: '2024-10-25'
+    description: |2-
+        * Aide aux nouveaux inscrits
+        * Explication pour prise en main des services numériques
+
+  - title: Préparateur de commandes 
+    company: Tetradis THD
+    company_url: 'https://www.tetradis.com/'
+    company_logo: org-x
+    location: Saint-Quentin-Fallavier
+    date_start: '2024-04-01'
+    date_end: '2024-04-31'
+    description: Expéditions de commandes de materiel Fibre Optique
 
 design:
   columns: '1'
