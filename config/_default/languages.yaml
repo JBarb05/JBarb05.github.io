@@ -3,10 +3,10 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+fr:
+  locale: fr-fr
+  # Uncomment for multi-lingual sites, and move French content into `fr` sub-folder.
+  #contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
