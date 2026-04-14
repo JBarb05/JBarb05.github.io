@@ -1,100 +1,76 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: "Julien Barbier"
+  given: "Julien"
+  family: "Barbier"
+  pronunciation: ""
 postnominals: []
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
-bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
-
+  icon: "🛜"
+role: "Technicien UC & Réseaux"
+email: "alex@example.com"
+bio: "Etudiant à l'IUT de Roanne en alternance chez TIMS Systemes à Limonest, je suis en phase de finir mon contrat et d'intégrer le monde du travail en CDI 🚀"
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
-
+  - name: "TIMS Systemes"
+    url: "https://tims.fr/"
 links:
-  - icon: at-symbol
-    url: mailto:alex@example.com
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alexjohnson
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
-
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/ju-barbier/"
+  - icon: "brands/github"
+    url: "https://github.com/JBarb05"
+  - icon: "at-symbol"
+    url: "mailto:julien.barbier2@etu.univ-st-etienne.fr"
+    label: "Envoyez moi un Courriel !"
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
-
+  - "Cloud Architecture"
+  - "Open Source"
+  - "Mikrotik"
+  - "Routage IPSEC"
+  - "PPPOE"
+  - "Avaya"
+  - "Yealink"
+  - "3CX"
+  - "Stormshield"
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
-    summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
-
+  - degree: "BUT Réseaux et Telecoms"
+    institution: "IUT De Roanne"
+    start: "01/09/2023"
+    end: "01/09/2023"
+    summary: "Diplome pour avoir le diplome, rien de plus"
+  - degree: "Baccalauréat STI2D SIN"
+    institution: "Lycée La Mache"
+    start: "01/07/2020"
+    end: "01/07/2023"
+    summary: "Option Systemes de l'Information et du numérique mention bien"
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
-    summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
-    summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
-
+  - role: "Technicien UC & Réseaux"
+    org: "TIMS Systemes"
+    start: "01/02/2025"
+    end: ""
+    summary: ""
 skills:
-  - name: Development
+  - name: "Development"
     items:
-      - label: TypeScript
+      - label: "TypeScript"
         level: 5
-      - label: React
+      - label: "React"
         level: 5
-      - label: Node.js
+      - label: "Node.js"
         level: 5
-      - label: Python
+      - label: "Python"
         level: 4
-  - name: DevOps
+  - name: "DevOps"
     items:
-      - label: Docker
+      - label: "Docker"
         level: 4
-      - label: AWS
+      - label: "AWS"
         level: 4
-      - label: CI/CD
+      - label: "CI/CD"
         level: 5
-
 languages:
-  - name: English
+  - name: "English"
     level: 5
-    label: Native
-
+    label: "Native"
 awards: []
