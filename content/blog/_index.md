@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Apprentissages critiques
 view: article-grid
 ---
