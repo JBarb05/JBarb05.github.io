@@ -1,5 +1,5 @@
 ---
-title: "Concevoir un projet de réseau informatique d'entreprise en intégrant la haute disponibilité, la qualité de service, la sécurité et la supervision"
+title: "AC31.01 Concevoir un projet de réseau informatique d'entreprise en intégrant la haute disponibilité, la qualité de service, la sécurité et la supervision"
 date: 2026-04-23
 summary: "Réflexion personnelle sur la conception d'un projet réseau d'entreprise dans une logique de professionnalisation en BUT Réseaux & Télécommunications."
 tags:

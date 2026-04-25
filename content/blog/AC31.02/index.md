@@ -1,5 +1,5 @@
 ---
-title: "Réaliser la documentation technique de ce projet"
+title: "AC31.02 Réaliser la documentation technique d'un projet"
 date: 2026-04-23
 summary: "Réflexion personnelle sur l'importance de la documentation technique dans un parcours de professionnalisation en BUT Réseaux & Télécommunications."
 tags:

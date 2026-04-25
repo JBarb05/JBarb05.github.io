@@ -1,5 +1,5 @@
 ---
-title: "Réaliser une maquette de démonstration du projet"
+title: "AC31.03 Réaliser une maquette de démonstration d'un projet"
 date: 2026-04-23
 summary: "Réflexion personnelle sur la mise en œuvre d'une maquette comme étape de validation et de professionnalisation."
 tags:

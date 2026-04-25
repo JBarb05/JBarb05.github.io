@@ -1,5 +1,5 @@
 ---
-title: "Défendre et argumenter un projet"
+title: "AC31.04 Défendre et argumenter un projet"
 date: 2026-04-23
 summary: "Réflexion personnelle sur l'argumentation technique et la construction d'une posture professionnelle."
 tags:

@@ -1,16 +1,7 @@
 ---
-title: "Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais"
+title: "AC31.06 Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais"
 date: 2026-04-23
 summary: "Réflexion personnelle sur la gestion de projet, l'organisation du travail et la professionnalisation."
-tags:
-    - Gestion de projet
-    - Organisation
-    - Planification
-    - Respect des délais
-    - Professionnalisation
-authors:
-  - me
-featured: false
 ---
 
 # Gérer le projet et les différentes étapes de sa mise en œuvre en respectant les délais

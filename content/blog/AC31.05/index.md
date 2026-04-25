@@ -1,5 +1,5 @@
 ---
-title: "Communiquer avec les acteurs du projet"
+title: "AC31.05 Communiquer avec les acteurs du projet"
 date: 2026-04-23
 summary: "Réflexion personnelle sur la communication professionnelle dans le cadre d'un projet réseau."
 tags:
