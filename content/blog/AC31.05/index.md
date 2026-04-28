@@ -1,13 +1,14 @@
 ---
+---
 title: "AC31.05 Communiquer avec les acteurs du projet"
 date: 2026-04-23
-summary: "Réflexion personnelle sur la communication professionnelle dans le cadre d'un projet réseau."
+summary: "Réflexion personnelle sur la communication entre les acteurs du projet de migration"
 tags:
-    - Réseaux
-    - Télécommunications
-    - Communication
-    - Gestion de projet
-    - Professionnalisation
+  - Réseaux
+  - Télécommunications
+  - Communication
+  - Gestion de projet
+  - Professionnalisation
 authors:
   - me
 featured: false
@@ -15,6 +16,33 @@ featured: false
 
 # Communiquer avec les acteurs du projet
 
-Cet apprentissage m'a permis de comprendre qu'un projet ne repose pas uniquement sur des compétences techniques, mais aussi sur la qualité des échanges entre les personnes impliquées. Communiquer avec les acteurs du projet demande de savoir adapter son discours, écouter les besoins, reformuler les contraintes et transmettre les bonnes informations au bon moment. En tant qu'étudiant en BUT Réseaux & Télécommunications en alternance, j'ai pu voir que cette dimension relationnelle est indispensable pour faire avancer un projet dans de bonnes conditions.
+## Contexte
+Projet de migration nécessitant une coordination constante entre plusieurs acteurs. Cette compétence était essentielle pour assurer l'alignement des équipes et la synchronisation des interventions.
 
-Cet écrit met en évidence la manière dont cette compétence m'a professionnalisé. Elle m'a appris à mieux travailler avec des profils différents, qu'il s'agisse de collègues techniques, de responsables ou d'utilisateurs. J'ai compris qu'un bon professionnel ne se définit pas seulement par ses savoir-faire techniques, mais aussi par sa capacité à collaborer efficacement. Dans la perspective d'un prochain CDI, cette aptitude à communiquer clairement et à m'intégrer dans une dynamique collective représente un atout important pour évoluer de manière crédible dans le domaine.
+## Réalisation
+Participation active aux réunions de coordination, expression claire des enjeux techniques et mise en place de points de suivi réguliers avec les différents acteurs du projet.
+
+## Preuves illustratives éventuelles
+Comptes rendus de réunion, échanges documentés, planning partagé des interventions.
+
+## Analyse réflexive
+
+### Réussites
+- Collaboration efficace avec les acteurs du projet
+- Capacité à m'exprimer clairement en réunion
+- Synchronisation réussie des interventions techniques
+
+### Difficultés
+- Besoin de gagner en assurance pour s'imposer davantage
+- Leadership à développer lors des décisions importantes
+
+### Apprentissage
+Développement de compétences en communication professionnelle et collaboration d'équipe. Prise de conscience de l'importance de la clarté dans l'expression.
+
+### Projection pour la suite
+Continuer à renforcer mon leadership et ma capacité à m'imposer constructivement dans les projets futurs.
+
+## Note
+**4/5**
+
+## Bilan

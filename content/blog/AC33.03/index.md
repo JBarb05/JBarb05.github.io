@@ -6,6 +6,33 @@ summary: "Réflexion personnelle sur la transmission des connaissances et l'acco
 
 # Participer à la formation des utilisateurs
 
-Cet apprentissage m’a permis de comprendre que la réussite d’une solution informatique dépend aussi de la manière dont elle est comprise et appropriée par ses utilisateurs. Participer à la formation des utilisateurs demande de savoir expliquer simplement, adapter son discours au niveau de chacun et accompagner la prise en main d’un outil ou d’un service. En alternance, j’ai pu mesurer que la compétence technique seule ne suffit pas si les utilisateurs ne disposent pas des repères nécessaires pour utiliser correctement une solution.
+## Contexte
+Cet apprentissage critique a été abordé uniquement dans le cadre professionnel de mon alternance en tant que technicien UC & réseaux.
 
-Cet écrit montre que cette compétence contribue à ma professionnalisation en développant ma capacité à transmettre et à vulgariser. Elle m’a appris à être plus attentif aux besoins concrets des utilisateurs, à faire preuve de pédagogie et à mieux relier la technique à l’usage réel. Cette dimension est importante dans les métiers des réseaux et télécommunications, car elle favorise une meilleure intégration des solutions déployées. À l’approche d’un CDI, savoir accompagner les utilisateurs constitue pour moi un véritable atout pour être reconnu comme un professionnel utile, accessible et efficace.
+## Réalisation
+Les nombreuses interventions clients, sur site et à distance, notamment en téléphonie, m’ont permis de mieux structurer mes explications et d’adapter mon discours selon les besoins des utilisateurs.
+
+## Preuves illustratives éventuelles
+- Accompagnement de clients lors de la prise en main d’outils de téléphonie.
+- Explications de procédures simples après intervention technique.
+- Assistance à distance pour résoudre des blocages courants.
+
+## Analyse réflexive
+
+### Réussites
+J’ai progressé dans ma capacité à vulgariser les aspects techniques et à guider les utilisateurs de manière plus claire.
+
+### Difficultés
+Je reste parfois incertain face à certains clients, en particulier lorsque les demandes sont imprécises ou que le niveau de compréhension est très hétérogène.
+
+### Apprentissage
+Cette expérience m’a appris que la pédagogie est une compétence clé du technicien : écouter, reformuler et vérifier la compréhension sont essentiels.
+
+### Projection pour la suite
+Je souhaite renforcer ma posture de formateur en préparant davantage mes explications et en développant des supports simples pour les utilisateurs.
+
+## Note
+**3/5**
+
+## Bilan
+Cette compétence a commencé à se consolider grâce au terrain. Les interventions répétées m’ont fait progresser, même si je dois encore gagner en assurance dans certaines situations clients.
