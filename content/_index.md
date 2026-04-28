@@ -22,16 +22,16 @@ sections:
           enable: true
           prefix: "Je travaille sur"
           strings:
-            - "des systèmes spécifiques"
             - "de la VoIP"
             - "de la pose de cable"
             - "des outils open source"
+            - "des nouvelles techno réseau"
           type_speed: 70
           delete_speed: 40
           pause_time: 2500
         cta_buttons:
-          - text: Mes projets
-            url: "#projects"
+          - text: Mes compétences
+            url: "#skills"
             icon: arrow-down
           - text: Me contacter
             url: "#contact"
@@ -46,41 +46,7 @@ sections:
             dark: "#0a0a0f"
         spacing:
           padding: ["6rem", "0", "4rem", "0"]
-    
-    # Portfolio filtrable - Filtrage des projets avec Alpine.js
-    - block: portfolio
-      id: projects
-      content:
-        title: "Projets phares"
-        subtitle: "Une sélection de mes travaux récents"
-        count: 0
-        filters:
-          folders:
-            - projects
-        buttons:
-          - name: Tous
-            tag: '*'
-          - name: Full-Stack
-            tag: Full-Stack
-          - name: Front-end
-            tag: Frontend
-          - name: Back-end
-            tag: Backend
-        default_button_index: 0
-        # Le lien d'archive s'affiche automatiquement s'il existe plus de projets que la valeur 'count' ci-dessus
-        # archive:
-        #   enable: false  # Définir sur false pour le masquer explicitement
-        #   text: "Parcourir tout"  # Personnaliser le texte
-        #   link: "/work/"  # URL personnalisée
-      design:
-        columns: 3
-        background:
-          color:
-            light: "#ffffff"
-            dark: "#0d0d12"
-        spacing:
-          padding: ["4rem", "0", "4rem", "0"]
-    
+
     # Stack technique visuelle - Icônes organisées par catégorie
     - block: tech-stack
       id: skills
@@ -91,23 +57,21 @@ sections:
           - name: Téléphonie
             items:
               - name: Avaya
-                icon: devicon/avaya
+                icon: custom/Avaya
               - name: EnreachUp
-                icon: devicon/enreach
+                icon: custom/enreach
               - name: 3CX
-                icon: devicon/3cx
+                icon: custom/3cx
           - name: Réseau
             items:
               - name: Mikrotik
-                icon: devicon/mikrotik
+                icon: custom/mikrotik
               - name: Cisco
-                icon: devicon/cisco
-              - name: Aruba
-                icon: devicon/aruba
+                icon: custom/cisco
               - name: Fortinet
-                icon: devicon/fortinet
+                icon: custom/fortinet
               - name: Stormshield
-                icon: devicon/stormshield
+                icon: custom/stormshield
               - name: Putty
                 icon: devicon/putty
           - name: OS
@@ -120,6 +84,14 @@ sections:
                 icon: devicon/postgresql
               - name: Redis
                 icon: devicon/redis
+          - name: DevOp
+            items:
+              - name: Docker
+                icon: devicon/docker
+              - name: VMware ESXI
+                icon: custom/esxi
+              - name: Ansible
+                icon: devicon/ansible
       design:
         style: grid
         show_levels: false
