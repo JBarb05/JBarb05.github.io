@@ -1,8 +1,16 @@
 ---
----
 title: "AC32.04 Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise"
 date: 2026-04-25
 summary: "Réflexion personnelle sur l'accès sécurisé au système d'information et son rôle dans la professionnalisation."
+tags:
+    - Sécurité
+    - Firewall
+    - Stormshield
+    - Filtrage
+    - Fortinet
+authors:
+  - me
+featured: false
 ---
 
 # Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise

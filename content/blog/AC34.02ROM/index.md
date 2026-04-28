@@ -2,6 +2,17 @@
 title: "AC34.02ROM Administrer et déployer des fonctions réseaux virtualisées et programmer le réseau"
 date: 2026-04-28
 summary: "Réflexion personnelle sur la virtualisation des fonctions réseau, la programmabilité et l’automatisation dans un parcours de professionnalisation en BUT Réseaux & Télécommunications."
+tags:
+    - virtualisation
+    - esxi
+    - docker
+    - ansible
+    - automatisation
+    - réseaux
+authors:
+    - me
+featured: false
+
 ---
 
 # Administrer et déployer des fonctions réseaux virtualisées et programmer le réseau

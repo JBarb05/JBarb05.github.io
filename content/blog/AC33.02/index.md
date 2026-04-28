@@ -2,6 +2,15 @@
 title: "AC33.01 Mettre en place un environnement de travail collaboratif informatique"
 date: 2026-04-25
 summary: "Réflexion personnelle sur les environnements collaboratifs et leur rôle dans la professionnalisation."
+tags:
+    - collaboration
+    - git
+    - github
+    - docker
+    - professionnalisation
+authors:
+    - me
+featured: false
 ---
 
 # Mettre en place un environnement de travail collaboratif informatique

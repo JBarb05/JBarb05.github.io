@@ -2,6 +2,16 @@
 title: "AC35.01ROM Administrer les services multimédias pour une entreprise"
 date: 2026-04-28
 summary: "Réflexion personnelle sur l’administration des services multimédias dans un parcours de professionnalisation en BUT Réseaux & Télécommunications."
+tags:
+    - Réseaux & Télécommunications
+    - Services multimédias
+    - Administration système
+    - BUT
+    - Alternance
+authors:
+    - me
+featured: false
+
 ---
 
 # Administrer les services multimédias pour une entreprise

@@ -1,7 +1,14 @@
 ---
----
 title: "AC33.04 Déployer et maintenir une solution informatique"
 date: 2026-04-25
+tags:
+    - déploiement
+    - maintenance
+    - continuité-de-service
+    - diagnostic
+authors:
+    - me
+featured: false
 summary: "Réflexion personnelle sur le déploiement et la maintenance de solutions informatiques dans un cadre professionnel."
 ---
 

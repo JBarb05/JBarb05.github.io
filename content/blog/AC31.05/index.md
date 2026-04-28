@@ -1,5 +1,4 @@
 ---
----
 title: "AC31.05 Communiquer avec les acteurs du projet"
 date: 2026-04-23
 summary: "Réflexion personnelle sur la communication entre les acteurs du projet de migration"

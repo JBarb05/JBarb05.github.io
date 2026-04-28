@@ -2,6 +2,16 @@
 title: "AC33.01 Participer à la formation des utilisateurs"
 date: 2026-04-25
 summary: "Réflexion personnelle sur la transmission des connaissances et l'accompagnement des utilisateurs."
+tags:
+    - formation
+    - utilisateurs
+    - pédagogie
+    - support-technique
+    - télétravail
+authors:
+    - me
+featured: false
+
 ---
 
 # Participer à la formation des utilisateurs

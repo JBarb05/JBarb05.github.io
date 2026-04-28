@@ -2,6 +2,16 @@
 title: "AC34.01ROM Administrer et superviser les infrastructures et les services télécom"
 date: 2026-04-28
 summary: "Réflexion personnelle sur l'administration et la supervision des infrastructures et services télécom dans un parcours de professionnalisation en BUT Réseaux & Télécommunications."
+tags:
+    - administration
+    - supervision
+    - infrastructures
+    - télécom
+    - professionnalisation
+authors:
+    - me
+featured: false
+
 ---
 
 # Administrer et superviser les infrastructures et les services télécom
